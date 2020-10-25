@@ -1,4 +1,9 @@
-# Latihan-VCS # PENGGUNAAN GIT 
+# Latihan-VCS
+Euis Sri Mulyani
+312010457
+TI.20.A.1
+
+# PENGGUNAAN GIT 
 
 
 ### APA ITU GIT ?
@@ -33,9 +38,12 @@
 * Config Global Repository
 
 `$ git config --global user.name “nama_user"`
+
 ![username](https://user-images.githubusercontent.com/72909071/97097379-3d117780-16a2-11eb-87c9-f667ae077e55.png)
 
 `$ git config --global user.email “nama_user”`
+
+![user](https://user-images.githubusercontent.com/72909071/97097381-40a4fe80-16a2-11eb-9397-7bddcb6593da.png)
 
 
 ### Perintah Dasar Git
