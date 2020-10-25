@@ -1,7 +1,7 @@
 # Latihan-VCS
-Euis Sri Mulyani
-312010457
-TI.20.A.1
+Euis Sri Mulyani<br>
+312010457<br>
+TI.20.A.1<br>
 
 # PENGGUNAAN GIT 
 
@@ -13,7 +13,7 @@ TI.20.A.1
 
 
 ### INSTALASI GIT
-* Download *Git*, buka website resminya Git .
+* Download *Git*, buka website resminya Git (git-scm.com)
 ![GitScm](https://user-images.githubusercontent.com/72909071/97097252-1868d000-16a1-11eb-8186-db54bc95d572.png)
 
 
@@ -114,7 +114,7 @@ $ cd latihan1``
 
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
 * Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*
-`$ git remote add origin https://github.com/noval1802/LatihanVCS.git`
+
 
 
 ### Push (Mengirim perubahan ke server)
