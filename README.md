@@ -19,6 +19,7 @@
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka *CMD* atau *PowerShell*, kemudian ketik perintah
 
 ``git --version``
+
 ![version](https://user-images.githubusercontent.com/72909071/97097289-8ca37380-16a1-11eb-9acd-cdf2825cb498.png)
 
 
@@ -32,6 +33,7 @@
 * Config Global Repository
 
 `$ git config --global user.name “nama_user"`
+![username](https://user-images.githubusercontent.com/72909071/97097379-3d117780-16a2-11eb-87c9-f667ae077e55.png)
 
 `$ git config --global user.email “nama_user”`
 
